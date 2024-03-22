@@ -13,6 +13,6 @@ favorite_list = [
 ]
 favorite_page_num = 4
 default_page_num = 2
-urls_limit = 15
+urls_limit = 2
 response_time_weight = 0.5
 resolution_weight = 0.5
