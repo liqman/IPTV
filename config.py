@@ -1,8 +1,6 @@
 source_file = "demo.txt"
 final_file = "result.txt"
 favorite_list = [
-    "南京",
-    "苏州",
     "江苏",
     "CCTV1",
     "CCTV5",
